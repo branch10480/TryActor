@@ -17,6 +17,7 @@
 		4855511228C4DAE80058E341 /* Samples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4855511128C4DAE80058E341 /* Samples.swift */; };
 		4855511428C4DBD10058E341 /* Sample1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4855511328C4DBD10058E341 /* Sample1.swift */; };
 		4855511628C4DBD50058E341 /* Sample2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4855511528C4DBD50058E341 /* Sample2.swift */; };
+		4855511828C4DC9E0058E341 /* ImageDownloader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4855511728C4DC9E0058E341 /* ImageDownloader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		4855511128C4DAE80058E341 /* Samples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Samples.swift; sourceTree = "<group>"; };
 		4855511328C4DBD10058E341 /* Sample1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample1.swift; sourceTree = "<group>"; };
 		4855511528C4DBD50058E341 /* Sample2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample2.swift; sourceTree = "<group>"; };
+		4855511728C4DC9E0058E341 /* ImageDownloader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageDownloader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				4855510E28C4D6510058E341 /* Counter.swift */,
+				4855511728C4DC9E0058E341 /* ImageDownloader.swift */,
 			);
 			path = Actors;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 			files = (
 				4855511628C4DBD50058E341 /* Sample2.swift in Sources */,
 				4855510F28C4D6510058E341 /* Counter.swift in Sources */,
+				4855511828C4DC9E0058E341 /* ImageDownloader.swift in Sources */,
 				485550FE28C4D3970058E341 /* ViewController.swift in Sources */,
 				485550FA28C4D3970058E341 /* AppDelegate.swift in Sources */,
 				4855511228C4DAE80058E341 /* Samples.swift in Sources */,

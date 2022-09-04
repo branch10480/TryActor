@@ -18,6 +18,7 @@ class ViewController: UIViewController {
 
   private func setup() {
     sample = Sample1()
+    sample = Sample2()
   }
 }
 
